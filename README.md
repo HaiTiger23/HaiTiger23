@@ -1,5 +1,4 @@
-<!-- Banner -->
-![Banner](https://i.imgur.com/YOUR_BANNER_URL.png) <!-- Replace this with your personal banner image -->
+
 
 <h1 align="center">
   Hello, I'm <a href="https://github.com/HaiTiger23">Hai Dev Aka Tiger</a> 👋  
