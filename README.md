@@ -1,12 +1,12 @@
 <!-- Banner -->
-![Banner](https://i.imgur.com/YOUR_BANNER_URL.png) <!-- Thay link này bằng ảnh banner cá nhân -->
+![Banner](https://i.imgur.com/YOUR_BANNER_URL.png) <!-- Replace this with your personal banner image -->
 
 <h1 align="center">
-  Xin chào, mình là <a href="https://github.com/HaiTiger23">Hải Dev Aka Tiger</a> 👋  
+  Hello, I'm <a href="https://github.com/HaiTiger23">Hai Dev Aka Tiger</a> 👋  
 </h1>
 
 <h3 align="center">
-  🚀 Lập trình viên Laravel | Web Developer | Plugin Developer  
+  🚀 Laravel Developer | Web Developer | Plugin Developer  
 </h3>
 
 <!-- Typing animation -->
@@ -24,13 +24,13 @@
 
 ---
 
-## 🌟 Giới thiệu
-> "Lập trình không chỉ là viết code, mà là cách tạo ra giá trị cho mọi người"  
+## 🌟 About Me
+> "Programming is not just about writing code, but about creating value for people"  
 
-- 🔥 **Fresher Laravel Developer**, yêu thích khám phá công nghệ mới.  
-- 🎯 **Mục tiêu ngắn hạn:** Tích lũy kiến thức, trở thành Junior Developer vững vàng.  
-- 🚀 **Mục tiêu dài hạn:** Fullstack Developer, làm chủ frontend và backend.  
-- 🏆 **GPA 3.93/4.0**, thủ khoa CNTT tại Đại học CNTT & Truyền thông Thái Nguyên.  
+- 🔥 **Fresher Laravel Developer**, passionate about exploring new technologies.  
+- 🎯 **Short-term goal:** Accumulate knowledge, become a solid Junior Developer.  
+- 🚀 **Long-term goal:** Fullstack Developer, mastering both frontend and backend.  
+- 🏆 **GPA 3.93/4.0**, top graduate in IT at Thai Nguyen University of Information and Communication Technology.  
 
 ---
 
@@ -47,12 +47,12 @@
 
 ---
 
-## 📂 Dự án nổi bật  
-- 🔎 [**Website tìm trọ Thái Nguyên**](https://github.com/HaiTiger23/tim-kiem-phong-tro) *(Laravel)*  
+## 📂 Featured Projects  
+- 🔎 [**Thai Nguyen Accommodation Finder**](https://github.com/HaiTiger23/tim-kiem-phong-tro) *(Laravel)*  
 - 💼 **Support.the4.co** *(Laravel Livewire, TailwindCSS)*  
 - 🔐 **Hidemium App** *(ReactJS, ElectronJS)*  
-- 🎁 **Tính năng Lì xì - Alo369** *(ReactJS)*  
-- 🎓 **Website quản lý tuyển sinh** *(Laravel + ReactJS)*  
+- 🎁 **Lucky Money Feature - Alo369** *(ReactJS)*  
+- 🎓 **Enrollment Management Website** *(Laravel + ReactJS)*  
 
 ---
 
@@ -61,17 +61,16 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Haitiger23&border_radius=5&locale=en&short_numbers=true&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaiTiger23&layout=compact&theme=radical" height="180" />
 </p>
 
 ---
 
-## 📫 Liên hệ  
+## 📫 Contact  
 - ✉ **Email:** haitv.dev@gmail.com  
 - 🌐 **Facebook:** [facebook.com/haitiger23](https://facebook.com/haitiger23)  
 - 💼 **GitHub:** [github.com/HaiTiger23](https://github.com/HaiTiger23)  
 
 ---
 
-⭐️ *Nếu thấy hay thì nhớ **follow** mình nhé!* ⭐️
+⭐️ *If you find this interesting, don't forget to **follow** me!* ⭐️
