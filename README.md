@@ -29,7 +29,7 @@
 - 🔥 **Fresher Laravel Developer**, passionate about exploring new technologies.  
 - 🎯 **Short-term goal:** Accumulate knowledge, become a solid Junior Developer.  
 - 🚀 **Long-term goal:** Fullstack Developer, mastering both frontend and backend.  
-- 🏆 **GPA 3.93/4.0**, top graduate in IT at Thai Nguyen University of Information and Communication Technology.  
+- 🏆 **GPA 3.93/4.0**, top graduate in ICTU.  
 
 ---
 
@@ -51,7 +51,7 @@
 - 💼 **Support.the4.co** *(Laravel Livewire, TailwindCSS)*  
 - 🔐 **Hidemium App** *(ReactJS, ElectronJS)*  
 - 🎁 **Lucky Money Feature - Alo369** *(ReactJS)*  
-- 🎓 **Enrollment Management Website** *(Laravel + ReactJS)*  
+- 🎓 **Enrollment Management System for ISTNU** *(Laravel + ReactJS)*  
 
 ---
 
